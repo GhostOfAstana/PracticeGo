@@ -18,4 +18,3 @@ func main() {
 // Таким образом, программа иллюстрирует принцип действия и противодействия в физике, показывая, что сила действия и сила реакции равны по величине, но противоположны по направлению.
 // The program is written in Go and can be run in any Go environment.
 // Note: The comments in Russian provide a brief explanation of the program's purpose and functionality.
-// Вот такой пример программы на языке Go, демонстрирующей третий закон Ньютона.
