@@ -19,4 +19,3 @@ func main() {
 // The program is written in Go and can be run in any Go environment.
 // Note: The comments in Russian provide a brief explanation of the program's purpose and functionality.
 // Вот такой пример программы на языке Go, демонстрирующей третий закон Ньютона.
-// The program can be compiled and executed using the Go compiler, and it will output the action and reaction forces to the console.
