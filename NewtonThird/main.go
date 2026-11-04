@@ -13,3 +13,5 @@ func main() {
 	fmt.Println("Action:", action, "N")
 	fmt.Println("Reaction:", reaction, "N")
 }
+
+// Макромир Ньютона: "На каждое действие есть равное и противоположное противодействие."
