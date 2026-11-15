@@ -13,5 +13,3 @@ func main() {
 	fmt.Println("Action:", action, "N")
 	fmt.Println("Reaction:", reaction, "N")
 }
-
-// Третий закон Ньютона гласит, что на каждое действие есть равное и противоположное противодействие.
